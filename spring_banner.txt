@@ -1,0 +1,27 @@
+
+     ${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+  ${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+ ${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}+oooooooo/${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}/oooooooo+${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}mMMMMMMMMh${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}yMMMMMMMMN${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}mMMMMMMMMh${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}yMMMMMMMMN${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}mMMMMMMMMh${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}yMMMMMMMMN${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}mMMMMMMMMh${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}yMMMMMMMMN${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}mMMMMMMMMh${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}yMMMMMMMMN${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}mMMMMMMMMh${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}yMMMMMMMMN${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}syyyyyyyyo${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}+yyyyyyyyy${AnsiColor.YELLOW}:::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}++++++++++++++++++++++++++++++++++++/${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}hddddddddddddddddddddddddddddddddddd+${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}hddddddddddddddddddddddddddddddddddd+${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}hddddddddddddddddddddddddddddddddddd+${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}hddddddddddddddddddddddddddddddhssss/${AnsiColor.YELLOW}:::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}hdddddddddddddddddddddddddddddds${AnsiColor.YELLOW}::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::${AnsiColor.WHITE}yhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs${AnsiColor.YELLOW}::::::::::::${AnsiColor.WHITE}
+${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+ ${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+  ${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}
+    ${AnsiColor.YELLOW}::::::::::::::::::::::::::::::::::::::::::${AnsiColor.WHITE}

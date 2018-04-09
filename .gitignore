@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+*.iml
+thumbs.db
+desktop.ini
